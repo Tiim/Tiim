@@ -14,6 +14,10 @@ Feel free to reach out!
 
 A list of all of my most important projects can be found on [my website](https://tiim.ch/projects), but here is a list some of them:
 
+<details>
+  <summary>Overview of some of my projects</summary>
+
+
 ##### 🏊 Aqualetics Coach
 
 > Javascript, Node.js, PostgreSQL, Hasura, Docker, Vue.js
@@ -36,3 +40,5 @@ sending and receiving webmentions, login with IndieAuth (a decentralized authent
 A small delightful pomodoro timer that runs in the CLI.
 
 [github.com/Tiim/pomo](https://github.com/Tiim/pomo)
+
+</details>
